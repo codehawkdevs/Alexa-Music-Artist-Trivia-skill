@@ -1,1 +1,2 @@
 # Alexa-Music-Artist-Trivia-skill
+A trivia app built with Amazon Alexa Skills Kit with Python3. Powered by Open Trivia DB  Music Artist Triva  is a trivia game focused on Music Artist. The app is powered by Open Trivia DB and there are 25 questions to pull from. In quiz mode, you'll be asked 5 questions from a category you choose. In random trivia mode, you'll be asked a random question from a random category.  To start playing say, "Alexa, launch Music Artist Trivia." If you want to stop playing say, "stop."
